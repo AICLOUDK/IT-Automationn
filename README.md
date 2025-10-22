@@ -1,4 +1,4 @@
-# Google-IT-Automationn :
+# IT-Automationn :
 "IT automation" refers to the use of technology, software, and tools to perform tasks and processes automatically, without requiring manual intervention. It helps streamline operations, reduce errors, save time, and improve efficiency in IT environments.
 
 What is IT Automation?
